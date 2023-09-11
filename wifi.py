@@ -7,7 +7,7 @@ try:
     from pywifi import const
     from pywifi import Profile
 
-except ImportError:
+except ImportError:"ADA"
     print("[!] libraries not importing")
 
 try:
